@@ -10,5 +10,5 @@
         <maven.compiler.release>25</maven.compiler.release>
         <exec.mainClass>com.mycompany.problema2.Problema2</exec.mainClass>
     </properties>
-    <name>Problema2</name>
+    <name>Problema02</name>
 </project>
